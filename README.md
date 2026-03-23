@@ -53,11 +53,6 @@ My research aims to bridge the gap between **modern AI techniques** and **aviati
 - ✉️ ademhmissa@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/adem-hmissa/)
 
----
-
-## ⚡ Fun Fact
-I enjoy combining research with real-world simulations, building end-to-end systems that go from **signal-level attacks → AI detection → explainable insights → certification-ready outputs**.
-
 <!---
 eobeob10/eobeob10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
