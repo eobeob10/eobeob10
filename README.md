@@ -12,7 +12,6 @@ My research aims to bridge the gap between **modern AI techniques** and **aviati
 -  **AI for Avionics Systems**
 -  **GNSS Security**
 -  **Cybersecurity in Safety-Critical Systems**
--  **ADS-B Communication Security**
 -  **Machine Learning for Intrusion Detection**
 -  **Explainable AI (XAI)**
 -  **Simulation Environments (Skydel, X-Plane, Cyber Ranges)**
@@ -23,7 +22,6 @@ My research aims to bridge the gap between **modern AI techniques** and **aviati
 
 ### Languages & Tools
 - Python (PyTorch, Scikit-learn, Pandas, NumPy)
-- MATLAB / Simulink
 - C / C++
 - Bash / PowerShell
 
